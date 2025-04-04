@@ -1,0 +1,40 @@
+ Project Breakdown (Feature-wise)
+📌 1. Home Page
+Introduction to Tatsam Society
+
+Highlights of recent events & blogs
+
+Language toggle button (🇮🇳 हिंदी | 🇬🇧 English)
+
+📌 2. About Us Page
+History & Vision
+
+The team (past & present members)
+
+Embedded video (if available)
+
+📌 3. Events Page
+Upcoming & past events
+
+Filters: Date, Type (workshop, poetry, etc.)
+
+Registration button (if applicable)
+
+📌 4. Members’ Corner
+Showcase members' achievements
+
+Login system? (If members need personalized access)
+
+📌 5. Blog Page
+Hindi & English blogs
+
+Categories: Poetry, Stories, Opinions
+
+Markdown support for easy writing
+
+📌 6. Gallery Page
+Photo album with lightbox preview
+
+Grid-based responsive layout
+
+📌 7. Newsletter Subscription

@@ -1,0 +1,10 @@
+Start all chats with 🤖
+
+## Stack
+- React
+- Next.js
+- TailwindCSS
+- TypeScript
+- Shadcn/UI
+
+We are in design mode. we are not going to build any backend functionality. we're just going to use dummy json in order to mock up the prototype of our application.
